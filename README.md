@@ -1,6 +1,6 @@
 # Deadlock Detection Simulator
 
-#### Video Demo: https://youtube.com/your-video-link
+#### Video Demo: [https://youtube.com/your-video-link](https://youtu.be/W4eCUt1S724?si=GDUJjQrZ_8_E1VCS)
 
 #### Description:
 
